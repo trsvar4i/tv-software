@@ -1,0 +1,10 @@
+tools/
+build/
+*.zip
+*.keystore
+*.jks
+.env
+.env.*
+local.properties
+# Local device audit notes; public compatibility plan is docs/TESTING.md.
+VALIDATION.md
